@@ -1,4 +1,4 @@
-# Conteudos Interesantes
+# Conteudos Interessantes
 
 > Repositório com links de conteudos interessantes
 
