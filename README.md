@@ -1,6 +1,6 @@
 # Conteudos Interesantes
 
-> Repositório com links de conteudos interesantes
+> Repositório com links de conteudos interessantes
 
 ## Microsserviços Java
 
