@@ -13,3 +13,7 @@
 ### Observabilidade
 
 - [Dashboard de métricas com Spring Boot Actuator, Prometheus e Grafana](https://www.youtube.com/watch?v=K_EI1SxVQ5Q&list=WL&index=2)
+
+## Java sistemas reativos
+
+- [Sistemas Reativos em Java](https://www.baeldung.com/java-reactive-systems)
