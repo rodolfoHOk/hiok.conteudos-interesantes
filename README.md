@@ -17,3 +17,7 @@
 ## Java sistemas reativos
 
 - [Sistemas Reativos em Java](https://www.baeldung.com/java-reactive-systems)
+
+## FlatBuffers
+
+- [Flatbuffers: Aplicações de alta performance](https://www.youtube.com/watch?v=uB83UoIvuRg)
