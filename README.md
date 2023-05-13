@@ -21,3 +21,7 @@
 ## FlatBuffers
 
 - [Flatbuffers: Aplicações de alta performance](https://www.youtube.com/watch?v=uB83UoIvuRg)
+
+## React Js
+
+- [Como adicionar a funcionalidade de "arrastar e soltar" em React com a biblioteca React Beautiful DnD](https://www.freecodecamp.org/portuguese/news/como-adicionar-a-funcionalidade-de-arrastar-e-soltar-em-react-com-a-biblioteca-react-beautiful-dnd/)
