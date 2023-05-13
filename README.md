@@ -25,3 +25,5 @@
 ## React Js
 
 - [Como adicionar a funcionalidade de "arrastar e soltar" em React com a biblioteca React Beautiful DnD](https://www.freecodecamp.org/portuguese/news/como-adicionar-a-funcionalidade-de-arrastar-e-soltar-em-react-com-a-biblioteca-react-beautiful-dnd/)
+
+- [React.js: implemente o recurso de arrastar e soltar sem usar bibliotecas externas](https://www.freecodecamp.org/portuguese/news/react-js-implemente-o-recurso-de-arrastar-e-soltar-sem-usar-bibliotecas-externas/)
